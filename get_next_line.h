@@ -6,7 +6,7 @@
 /*   By: tclaudel <tclaudel@student.le-101.fr>      +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/10/16 11:12:02 by tclaudel     #+#   ##    ##    #+#       */
-/*   Updated: 2019/11/14 14:12:11 by tclaudel    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/11/19 16:52:19 by tclaudel    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -14,7 +14,7 @@
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-# include <stdlib.h>
+# include "stdlib.h"
 # include <unistd.h>
 
 size_t		ft_strlen(const char *str);
